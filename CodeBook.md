@@ -49,7 +49,7 @@ The following are the variables of the dataset tidy.txt
 [2]                 activity: type of activity performed   
   
 ## Features(Measurements)
-###Column Number         Column Name               
+              
 [3]                   "tBodyAcc-mean()-Z"               
 [4]                   "tBodyAcc-std()-X"               
 [5]                   "tBodyAcc-std()-Y"                
