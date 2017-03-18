@@ -43,13 +43,13 @@ A tidy dataset tidy.txt was created from the merged dataset with the average of 
 
 The following are the variables of the dataset tidy.txt
 
-# Identifiers
+## Identifiers
 Colum Number        Column Name       Description
 [1]                 subject           subject ID
 [2]                 activity          type of activity performed 
 
-# Features(Measurements)
-Column Number         Column Name               Description
+## Features(Measurements)
+###Column Number         Column Name               Description
 [3]                   "tBodyAcc-mean()-Z"               
 [4]                   "tBodyAcc-std()-X"               
 [5]                   "tBodyAcc-std()-Y"                
@@ -130,7 +130,7 @@ Column Number         Column Name               Description
 [90]                  "fBodyBodyGyroJerkMag-max()"     
 [81]                  "fBodyBodyGyroJerkMag-kurtosis()"
 
-# Activity Labels
+## Activity Labels
 
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
