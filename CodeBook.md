@@ -44,7 +44,7 @@ A tidy dataset tidy.txt was created from the merged dataset with the average of 
 The following are the variables of the dataset tidy.txt
 
 ## Identifiers
-Colum Number   |     Column Name   |    Description  
+Colum Number---     Column Name---    Description  
 [1]                 subject           subject ID  
 [2]                 activity          type of activity performed   
   
