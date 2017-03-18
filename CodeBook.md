@@ -44,12 +44,12 @@ A tidy dataset tidy.txt was created from the merged dataset with the average of 
 The following are the variables of the dataset tidy.txt
 
 ## Identifiers
-Colum Number        Column Name       Description  
+Column Number       Column Name       Description  
 [1]                 subject           subject ID  
 [2]                 activity          type of activity performed   
   
 ## Features(Measurements)
-###Column Number         Column Name               Description
+###Column Number         Column Name               
 [3]                   "tBodyAcc-mean()-Z"               
 [4]                   "tBodyAcc-std()-X"               
 [5]                   "tBodyAcc-std()-Y"                
@@ -127,7 +127,7 @@ Colum Number        Column Name       Description
 [77]                  "fBodyBodyGyroMag-max()"          
 [78]                  "fBodyBodyGyroMag-kurtosis()"    
 [79]                  "fBodyBodyGyroJerkMag-mad()"      
-[90]                  "fBodyBodyGyroJerkMag-max()"     
+[80]                  "fBodyBodyGyroJerkMag-max()"     
 [81]                  "fBodyBodyGyroJerkMag-kurtosis()"
 
 ## Activity Labels
